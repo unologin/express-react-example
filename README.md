@@ -1,6 +1,6 @@
 # unolog·in example project
 
-This is repository contains the accompanying code to our [getting started guide](https://dashboard.unolog.in/docs/getting-started).
+This repository contains the accompanying code to our [getting started guide](https://dashboard.unolog.in/docs/getting-started).
 
 ## Running the example
 
